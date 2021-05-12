@@ -33,4 +33,4 @@ User Guides may differ based on the product functionality, targeted audience, an
 - Index
 
 ## Sample
-- <embed src="https://github.com/technakama/User-Guide/blob/master/Chapter%20Outline%20-%20Google%20Docs.pdf" width="600px" height="500px" />
+- <embed src="https://github.com/technakama/User-Guide/Chapter Outline - Google Docs.pdf" width="600px" height="500px" />
