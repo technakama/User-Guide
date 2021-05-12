@@ -31,6 +31,3 @@ User Guides may differ based on the product functionality, targeted audience, an
 - Appendixes
 - Glossary
 - Index
-
-## Sample
-- <embed src="https://github.com/technakama/User-Guide/Chapter Outline - Google Docs.pdf" width="600px" height="500px" />
